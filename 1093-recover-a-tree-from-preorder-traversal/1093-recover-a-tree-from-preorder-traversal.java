@@ -33,8 +33,6 @@ class Solution {
         for (Map.Entry<TreeNode, Integer> entry : hm.entrySet()) {
             TreeNode node = entry.getKey();
             int depth = entry.getValue();
-            
-            // If stack has more elements than depth, pop to the correct level
             while (stack.size() > depth) {
                 stack.pop();
             }
