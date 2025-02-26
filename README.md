@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1396-count-servers-that-communicate](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1396-count-servers-that-communicate) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Divide and Conquer
 |  |
@@ -97,8 +98,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0088-merge-sorted-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0088-merge-sorted-array) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
