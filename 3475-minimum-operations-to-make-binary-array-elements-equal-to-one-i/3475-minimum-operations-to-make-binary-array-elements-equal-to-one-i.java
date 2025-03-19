@@ -1,22 +1,30 @@
 class Solution {
-    public int minOperations(int[] nums) {
-
-        int count = 0;
-        for(int i = 0;i < nums.length - 2;i++){
-
-            if(nums[i] == 0){
-
-                nums[i] = 1 - nums[i];
-                nums[i + 1] = 1 - nums[i + 1];
-                nums[i + 2] = 1 - nums[i + 2];
-                count += 1;
+    public boolean check(int[] nums) {
+        for (int num : nums) {
+            if (num != 1) {
+                return false;
             }
         }
-        if(nums[nums.length - 1] == 0 || nums[nums.length - 2] == 0){
+        return true;
+    }
 
-            return -1;
+    public int minOperations(int[] nums) {
+        int n = nums.length;
+        int k = 3, cnt = 0;
+
+        for (int r = 0; r <= n - k; r++) {
+            if (nums[r] == 0) { 
+                for (int ind = r; ind < r + k; ind++) {
+                    nums[ind] ^= 1; 
+                }
+                cnt++;
+            }
         }
-        
-        return count;
+
+        if (check(nums)) {
+            return cnt;
+        }
+
+        return -1; 
     }
 }
