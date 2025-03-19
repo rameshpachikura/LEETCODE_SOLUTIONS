@@ -3,10 +3,15 @@ class Solution {
        Arrays.sort(nums);
        int n=nums.length;
        int ans=Integer.MAX_VALUE;
-       int j=0;
-       for(int i=0;i<=n-k;i++){
-           j=i+k-1;
-           ans=Math.min(ans,nums[j]-nums[i]);
+       int l=0;
+       for(int r=0;r<n;r++){
+           if(r-l==k){
+            l++;
+           }
+           if((r-l+1)==k){
+            ans=Math.min(ans,nums[r]-nums[l]);
+           }
+           
        }
        return ans;
 
