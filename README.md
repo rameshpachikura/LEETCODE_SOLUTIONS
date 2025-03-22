@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
+| [0137-single-number-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0137-single-number-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0598-range-addition-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0598-range-addition-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0137-single-number-ii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2478-longest-nice-subarray) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
