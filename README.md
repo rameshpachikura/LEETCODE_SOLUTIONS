@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0137-single-number-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
+| [0561-array-partition](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0561-array-partition) |
 | [0598-range-addition-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0598-range-addition-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0088-merge-sorted-array) |
+| [0561-array-partition](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0561-array-partition) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Simulation
 |  |
@@ -239,4 +241,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
