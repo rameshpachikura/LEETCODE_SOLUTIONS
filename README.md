@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0058-length-of-last-word](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0392-is-subsequence) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
