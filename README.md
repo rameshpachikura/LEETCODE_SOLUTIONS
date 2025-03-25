@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0392-is-subsequence) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0392-is-subsequence) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2271-rearrange-array-elements-by-sign) |
