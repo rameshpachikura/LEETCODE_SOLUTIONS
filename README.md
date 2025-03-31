@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2665-minimum-time-to-repair-cars) |
+| [2681-put-marbles-in-bags](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3001-apply-operations-to-maximize-score](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3001-apply-operations-to-maximize-score) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0561-array-partition) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2681-put-marbles-in-bags](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3001-apply-operations-to-maximize-score) |
 ## Counting Sort
 |  |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2681-put-marbles-in-bags) |
 ## Stack
 |  |
 | ------- |
