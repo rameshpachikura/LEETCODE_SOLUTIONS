@@ -9,14 +9,11 @@ class Solution {
             char c1 = s.charAt(i);
             char c2 = t.charAt(i);
 
-            // Check s -> t mapping
             if (mapST.containsKey(c1)) {
                 if (mapST.get(c1) != c2) return false;
             } else {
                 mapST.put(c1, c2);
             }
-
-            // Check t -> s mapping (to prevent two s chars mapping to same t char)
             if (mapTS.containsKey(c2)) {
                 if (mapTS.get(c2) != c1) return false;
             } else {
