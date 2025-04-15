@@ -3,13 +3,6 @@ class Solution {
        int min=Integer.MAX_VALUE;
        int l=0;
        int sum=0;
-       int s1=0;
-       for(int i=0;i<nums.length;i++){
-        s1+=nums[i];
-       }
-       if(s1<target){
-        return 0;
-       }
        for(int r=0;r<nums.length;r++){
             sum+=nums[r];
             while(sum>=target){
@@ -18,6 +11,6 @@ class Solution {
                  l++;
             }
        } 
-       return min;
+       return min == Integer.MAX_VALUE ? 0 : min;
     }
 }
