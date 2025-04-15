@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0368-largest-divisible-subset](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1046-max-consecutive-ones-iii) |
