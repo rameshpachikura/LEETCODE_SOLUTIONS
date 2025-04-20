@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
+| [0797-rabbits-in-forest](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0940-fruit-into-baskets) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0598-range-addition-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0598-range-addition-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0724-find-pivot-index) |
+| [0797-rabbits-in-forest](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0940-fruit-into-baskets) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0202-happy-number) |
 | [0368-largest-divisible-subset](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0368-largest-divisible-subset) |
 | [0598-range-addition-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0598-range-addition-ii) |
+| [0797-rabbits-in-forest](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0797-rabbits-in-forest) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -372,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0561-array-partition) |
+| [0797-rabbits-in-forest](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0797-rabbits-in-forest) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2681-put-marbles-in-bags](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3001-apply-operations-to-maximize-score) |
