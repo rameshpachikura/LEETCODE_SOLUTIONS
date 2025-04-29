@@ -5,9 +5,7 @@ class Solution {
         long ans=0;
         int max=0;
         for(int i=0;i<n;i++){
-            if(nums[i]>max){
-                max=nums[i];
-            }
+            max=Math.max(max,nums[i]);
         }
         HashMap<Integer,Integer> hm=new HashMap<>();
         for(int r=0;r<n;r++){
