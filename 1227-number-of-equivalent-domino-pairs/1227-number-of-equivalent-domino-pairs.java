@@ -1,17 +1,18 @@
 class Solution {
     public int numEquivDominoPairs(int[][] dominoes) {
-        int cnt=0;
-        for(int i=0;i<dominoes.length;i++){
-            int a=dominoes[i][0];
-            int b=dominoes[i][1];
-            for(int j=i+1;j<dominoes.length;j++){
-                int c=dominoes[j][0];
-                int d=dominoes[j][1];
-                if(((a==c)&&(b==d))|| ((a==d) && (b==c))){
-                    cnt++;
-                }
-            }
+        
+        int n = dominoes.length, cnt = 0;
+        HashMap<String, Integer> map = new HashMap<>();
+
+        for(int[] arr : dominoes) {
+            Arrays.sort(arr);
+            String key = "" + arr[0] + arr[1];
+            map.put(key, map.getOrDefault(key, 0) + 1);
         }
+        for(int val: map.values()) {
+            cnt += val * (val - 1) / 2;
+        }
+
         return cnt;
     }
 }
