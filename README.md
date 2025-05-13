@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2825-minimize-string-length](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2825-minimize-string-length) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Tree
 |  |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3001-apply-operations-to-maximize-score) |
 | [3227-find-missing-and-repeated-values](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3227-find-missing-and-repeated-values) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2262-solving-questions-with-brainpower) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -304,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Two Pointers
 |  |
 | ------- |
