@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1396-count-servers-that-communicate) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1656-count-good-triplets](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1656-count-good-triplets) |
 | [1833-find-the-highest-altitude](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1833-find-the-highest-altitude) |
