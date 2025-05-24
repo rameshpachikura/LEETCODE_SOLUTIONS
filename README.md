@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2122-count-special-quadruplets) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2215-finding-3-digit-even-numbers) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2566-number-of-unequal-triplets-in-array) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2665-minimum-time-to-repair-cars) |
