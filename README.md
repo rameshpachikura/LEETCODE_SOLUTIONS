@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0088-merge-sorted-array) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0392-is-subsequence) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0179-largest-number) |
 | [0561-array-partition](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0605-can-place-flowers) |
