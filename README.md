@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0443-string-compression) |
 | [0868-push-dominoes](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0868-push-dominoes) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1170-shortest-common-supersequence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1170-shortest-common-supersequence) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1396-count-servers-that-communicate](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1396-count-servers-that-communicate) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2793-count-the-number-of-complete-components) |
