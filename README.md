@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2427-first-letter-to-appear-twice](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2427-first-letter-to-appear-twice) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2825-minimize-string-length](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2825-minimize-string-length) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2427-first-letter-to-appear-twice) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3001-apply-operations-to-maximize-score) |
 ## Monotonic Stack
 |  |
