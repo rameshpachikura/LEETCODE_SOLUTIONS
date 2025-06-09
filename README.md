@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0035-search-insert-position) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0141-linked-list-cycle) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0179-largest-number) |
