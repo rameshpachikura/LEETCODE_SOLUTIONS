@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3194-find-words-containing-character) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3567-convert-date-to-binary](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3567-convert-date-to-binary) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3321-type-of-triangle) |
+| [3567-convert-date-to-binary](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3567-convert-date-to-binary) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Dynamic Programming
