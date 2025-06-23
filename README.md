@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
@@ -502,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0338-counting-bits) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2427-first-letter-to-appear-twice) |
