@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0443-string-compression) |
+| [0742-to-lower-case](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0742-to-lower-case) |
 | [0868-push-dominoes](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
