@@ -1,29 +1,14 @@
 class Solution {
     public String convertDateToBinary(String date) {
-      StringBuilder str=new StringBuilder();
-      String[] s=new String[3];
-      int c=0;
-      for(int i=0;i<date.length();i++){
-        if(date.charAt(i)=='-'){
-              s[c++]=str.toString();
-              str.setLength(0);
-           }
-           else{
-                str.append(date.charAt(i));   
-           }
-               
-        }
-        s[c] = str.toString();
-        int x=0;
-        StringBuilder sb=new StringBuilder();
-        for(int i=0;i<s.length;i++){
-             int y=Integer.parseInt(s[i]);
-             sb.append(Integer.toBinaryString(y));
-             if(x<2){
-                sb.append('-');
-                x++;
-             }
-        } 
-        return sb.toString();  
+        String y = date.substring(0,4);
+        String m = date.substring(5,7);
+        String d = date.substring(8,10);
+        StringBuilder sb = new StringBuilder();
+        sb.append(Integer.toBinaryString(Integer.parseInt(y)));
+        sb.append("-");
+        sb.append(Integer.toBinaryString(Integer.parseInt(m)));
+        sb.append("-");
+        sb.append(Integer.toBinaryString(Integer.parseInt(d)));
+        return sb.toString();
     }
 }
