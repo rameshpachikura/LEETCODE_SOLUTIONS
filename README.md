@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0443-string-compression) |
 | [0742-to-lower-case](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0742-to-lower-case) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0797-rabbits-in-forest](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1396-count-servers-that-communicate](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1396-count-servers-that-communicate) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
