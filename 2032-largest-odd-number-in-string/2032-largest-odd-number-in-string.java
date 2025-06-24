@@ -1,26 +1,13 @@
 class Solution {
     public String largestOddNumber(String num) {
-        // Reverse the string
-        StringBuilder str = new StringBuilder(num);
-        str.reverse();
-        
-        StringBuilder s = new StringBuilder();
-        boolean oddFound = false;
-
-        for (int i = 0; i < str.length(); i++) {
-            char ch = str.charAt(i);
-            int digit = ch - '0';
-
-            if (!oddFound && digit % 2 == 1) {
-                oddFound = true;
-                s.append(ch);
-            } else if (oddFound) {
-                s.append(ch);
+        for (int i = num.length() - 1; i >= 0; i--) {
+            char ch = num.charAt(i);
+            if ((ch - '0') % 2 == 1) {
+                // Found the last odd digit, return substring from start to this index
+                return num.substring(0, i + 1);
             }
         }
-
-        // Reverse the result to get final output
-        s.reverse();
-        return s.toString();
+        // No odd digit found
+        return "";
     }
 }
