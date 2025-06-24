@@ -1,18 +1,25 @@
 class Solution {
     public List<Integer> findKDistantIndices(int[] nums, int key, int k) {
-        HashSet<Integer> hs=new HashSet<>();
-        int n=nums.length;
-        for(int i=0;i<n;i++){
-            if(nums[i]==key){
-                for(int j=0;j<n;j++){
-                    if(Math.abs(i-j)<=k){
-                        hs.add(j);
-                    }
+         List<Integer> result = new ArrayList<>();
+        int n = nums.length;
+        boolean[] marked = new boolean[n];
+
+        for (int i = 0; i < n; i++) {
+            if (nums[i] == key) {
+                int start = Math.max(0, i - k);
+                int end = Math.min(n - 1, i + k);
+                for (int j = start; j <= end; j++) {
+                    marked[j] = true;
                 }
             }
         }
-         ArrayList<Integer> a=new ArrayList<>(hs);
-         Collections.sort(a);
-         return a;
+
+        for (int i = 0; i < n; i++) {
+            if (marked[i]) {
+                result.add(i);
+            }
+        }
+
+        return result;
     }
 }
