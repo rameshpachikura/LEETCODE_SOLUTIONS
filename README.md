@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3778-transform-array-by-parity](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3778-transform-array-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3778-transform-array-by-parity](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3430-count-days-without-meetings](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3430-count-days-without-meetings) |
 | [3647-zero-array-transformation-iii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3778-transform-array-by-parity](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3778-transform-array-by-parity) |
 ## Simulation
 |  |
 | ------- |
