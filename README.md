@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1651-shuffle-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1656-count-good-triplets) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1791-richest-customer-wealth](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1791-richest-customer-wealth) |
 | [1833-find-the-highest-altitude](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1833-find-the-highest-altitude) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1944-truncate-sentence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1944-truncate-sentence) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0566-reshape-the-matrix) |
 | [0945-snakes-and-ladders](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1396-count-servers-that-communicate) |
+| [1791-richest-customer-wealth](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1791-richest-customer-wealth) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3227-find-missing-and-repeated-values) |
