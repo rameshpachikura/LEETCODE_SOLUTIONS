@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1580-shuffle-the-array) |
+| [1603-running-sum-of-1d-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1651-shuffle-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1656-count-good-triplets) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1046-max-consecutive-ones-iii) |
+| [1603-running-sum-of-1d-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1603-running-sum-of-1d-array) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1833-find-the-highest-altitude](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1833-find-the-highest-altitude) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2134-maximize-the-confusion-of-an-exam) |
