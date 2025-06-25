@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1500-count-largest-group) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0443-string-compression) |
 | [0868-push-dominoes](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0908-middle-of-the-linked-list) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2128-reverse-prefix-of-word) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -449,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1256-rank-transform-of-an-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -522,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2210-find-target-indices-after-sorting-array) |
