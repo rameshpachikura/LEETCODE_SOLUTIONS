@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0228-summary-ranges) |
+| [0349-intersection-of-two-arrays](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0540-single-element-in-a-sorted-array) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0443-string-compression) |
 | [0868-push-dominoes](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0868-push-dominoes) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0368-largest-divisible-subset) |
 | [0561-array-partition](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1137-height-checker) |
@@ -542,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0792-binary-search) |
