@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0566-reshape-the-matrix) |
+| [0594-longest-harmonious-subsequence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0598-range-addition-ii) |
 | [0605-can-place-flowers](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1396-count-servers-that-communicate](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1396-count-servers-that-communicate) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -494,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0368-largest-divisible-subset) |
 | [0561-array-partition](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0594-longest-harmonious-subsequence) |
 | [1137-height-checker](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -545,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1046-max-consecutive-ones-iii) |
