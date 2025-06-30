@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0078-subsets) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Hash Table
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0135-candy) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0338-counting-bits) |
