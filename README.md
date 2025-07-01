@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2502-sort-the-people) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2825-minimize-string-length](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2825-minimize-string-length) |
+| [2886-faulty-keyboard](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2886-faulty-keyboard) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3194-find-words-containing-character) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2470-removing-stars-from-a-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2551-apply-operations-to-an-array) |
+| [2886-faulty-keyboard](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2886-faulty-keyboard) |
 ## Number Theory
 |  |
 | ------- |
