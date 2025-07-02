@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1500-count-largest-group) |
+| [1635-number-of-good-pairs](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1635-number-of-good-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1603-running-sum-of-1d-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1635-number-of-good-pairs](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1656-count-good-triplets) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1635-number-of-good-pairs](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -468,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1396-count-servers-that-communicate](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1396-count-servers-that-communicate) |
+| [1635-number-of-good-pairs](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1635-number-of-good-pairs) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
