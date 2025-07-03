@@ -401,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3321-type-of-triangle) |
 | [3567-convert-date-to-binary](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Dynamic Programming
@@ -573,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2551-apply-operations-to-an-array) |
 | [2886-faulty-keyboard](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2886-faulty-keyboard) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -645,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
 |  |
 | ------- |
@@ -753,6 +756,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0021-merge-two-sorted-lists) |
 | [1013-fibonacci-number](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Monotonic Queue
 |  |
 | ------- |
