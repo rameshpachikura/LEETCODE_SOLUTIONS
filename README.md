@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0566-reshape-the-matrix](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0566-reshape-the-matrix) |
 | [0945-snakes-and-ladders](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0945-snakes-and-ladders) |
@@ -582,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0566-reshape-the-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1505-create-target-array-in-the-given-order) |
 | [2048-build-array-from-permutation](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2048-build-array-from-permutation) |
