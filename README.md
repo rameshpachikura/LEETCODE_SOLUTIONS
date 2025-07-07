@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2649-count-total-number-of-colored-cells) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2857-total-distance-traveled](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2857-total-distance-traveled) |
 | [2998-count-symmetric-integers](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -594,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2470-removing-stars-from-a-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2470-removing-stars-from-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2551-apply-operations-to-an-array) |
+| [2857-total-distance-traveled](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2857-total-distance-traveled) |
 | [2886-faulty-keyboard](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2886-faulty-keyboard) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Number Theory
