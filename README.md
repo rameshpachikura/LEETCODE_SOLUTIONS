@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-number-of-arithmetic-triplets](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2442-number-of-arithmetic-triplets) |
 | [2478-longest-nice-subarray](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2478-longest-nice-subarray) |
 | [2502-sort-the-people](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2502-sort-the-people) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -675,6 +676,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2427-first-letter-to-appear-twice) |
 | [2478-longest-nice-subarray](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2478-longest-nice-subarray) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
