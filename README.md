@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0500-keyboard-row](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0500-keyboard-row) |
+| [0523-continuous-subarray-sum](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0594-longest-harmonious-subsequence) |
 | [0782-jewels-and-stones](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0782-jewels-and-stones) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
 | [0500-keyboard-row](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0500-keyboard-row) |
+| [0523-continuous-subarray-sum](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0561-array-partition) |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0368-largest-divisible-subset) |
+| [0523-continuous-subarray-sum](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0523-continuous-subarray-sum) |
 | [0598-range-addition-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0598-range-addition-ii) |
 | [0797-rabbits-in-forest](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1013-fibonacci-number) |
@@ -457,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
+| [0523-continuous-subarray-sum](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1046-max-consecutive-ones-iii) |
