@@ -421,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2491-smallest-even-multiple](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2491-smallest-even-multiple) |
 | [2610-closest-prime-numbers-in-range](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2649-count-total-number-of-colored-cells) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2491-smallest-even-multiple](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2491-smallest-even-multiple) |
 | [2610-closest-prime-numbers-in-range](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3001-apply-operations-to-maximize-score) |
 ## Sliding Window
