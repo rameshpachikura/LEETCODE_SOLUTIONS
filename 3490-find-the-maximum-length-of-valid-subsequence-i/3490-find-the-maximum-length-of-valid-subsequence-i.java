@@ -1,14 +1,17 @@
 class Solution {
     public int maximumLength(int[] nums) {
-        int[] evenorodd = new int[2]; 
-        int[] alter = new int[2];   
-
+        int c = nums[0] % 2, odd = 0, even = 0, both = 0;
         for (int num : nums) {
-            int parity = num % 2;
-            evenorodd[parity]++;
-            alter[parity] = alter[1 - parity] + 1;
+            if (num % 2 == 0) {
+                even++;
+            } else {
+                odd++;
+            }
+            if (num % 2 == c) {
+                both++;
+                c = 1 - c;  // Toggle the parity
+            }
         }
-
-        return Math.max(Math.max(evenorodd[0], evenorodd[1]),Math.max(alter[0], alter[1]));        
+        return Math.max(both, Math.max(even, odd));
     }
 }
