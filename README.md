@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0368-largest-divisible-subset) |
+| [0445-add-two-numbers-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0523-continuous-subarray-sum) |
 | [0598-range-addition-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0598-range-addition-ii) |
 | [0797-rabbits-in-forest](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0797-rabbits-in-forest) |
@@ -807,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0445-add-two-numbers-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0445-add-two-numbers-ii) |
 | [2128-reverse-prefix-of-word](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2128-reverse-prefix-of-word) |
 | [2470-removing-stars-from-a-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -860,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0237-delete-node-in-a-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Database
