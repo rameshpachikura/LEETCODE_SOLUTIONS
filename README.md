@@ -335,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2502-sort-the-people](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2502-sort-the-people) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -729,6 +730,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2308-divide-array-into-equal-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2427-first-letter-to-appear-twice) |
 | [2478-longest-nice-subarray](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2478-longest-nice-subarray) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -907,6 +909,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0292-nim-game) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Game Theory
 |  |
 | ------- |
