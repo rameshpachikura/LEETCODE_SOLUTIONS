@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0500-keyboard-row) |
+| [0583-delete-operation-for-two-strings](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0583-delete-operation-for-two-strings) |
 | [0742-to-lower-case](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0782-jewels-and-stones) |
 | [0868-push-dominoes](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0868-push-dominoes) |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0416-partition-equal-subset-sum) |
+| [0583-delete-operation-for-two-strings](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0583-delete-operation-for-two-strings) |
 | [0806-domino-and-tromino-tiling](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0868-push-dominoes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
