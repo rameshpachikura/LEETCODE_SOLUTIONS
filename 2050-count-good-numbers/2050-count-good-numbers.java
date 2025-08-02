@@ -1,22 +1,18 @@
 class Solution {
-    public long pow(long b, long p, int m){
-        b=b%m;
-        long res= 1;
-        while(p>0){
-            if(p%2!=0){
-                res= (res*b)%m;
-            }
-            b= (b*b)%m;
-            p/=2;
+    public int countGoodNumbers(long n) {
+        long mod = 1000000007;
+        long ans = (pow(5, (n + 1) / 2, mod) * pow(4, n / 2, mod)) % mod;
+        return (int) ans;
+    }
+
+    
+    private long pow(long base, long exp, long mod) {
+        long res = 1;
+        while (exp > 0) {
+            if (exp % 2 == 1) res = (res * base) % mod;
+            base = (base * base) % mod;
+            exp /= 2;
         }
         return res;
-    }
-    public int countGoodNumbers(long n) {
-        int m= 1_000_000_007;
-        long ep=(n+1)/2;
-        long op=n/2;
-        long ec= pow(5, ep, m);
-        long oc= pow(4, op, m);
-        return (int)((oc*ec)%m);
     }
 }
