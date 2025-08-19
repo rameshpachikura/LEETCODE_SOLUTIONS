@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2442-number-of-arithmetic-triplets](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2442-number-of-arithmetic-triplets) |
 | [2478-longest-nice-subarray](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2479-meeting-rooms-iii) |
@@ -453,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2491-smallest-even-multiple](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2491-smallest-even-multiple) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2610-closest-prime-numbers-in-range](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2610-closest-prime-numbers-in-range) |
