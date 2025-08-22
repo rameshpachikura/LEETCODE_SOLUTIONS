@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1944-truncate-sentence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1944-truncate-sentence) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2048-build-array-from-permutation) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1635-number-of-good-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2050-count-good-numbers) |
@@ -670,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0566-reshape-the-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1505-create-target-array-in-the-given-order) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -773,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -896,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0342-power-of-four](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1013-fibonacci-number) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2050-count-good-numbers](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Monotonic Queue
