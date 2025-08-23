@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2128-reverse-prefix-of-word) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2249-count-the-hidden-sequences](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2249-count-the-hidden-sequences) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1894-merge-strings-alternately](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2128-reverse-prefix-of-word) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2320-find-all-k-distant-indices-in-an-array) |
