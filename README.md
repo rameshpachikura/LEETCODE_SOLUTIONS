@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1833-find-the-highest-altitude) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1917-maximum-average-pass-ratio](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1917-maximum-average-pass-ratio) |
 | [1944-truncate-sentence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1944-truncate-sentence) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -823,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1917-maximum-average-pass-ratio](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -867,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1917-maximum-average-pass-ratio](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2479-meeting-rooms-iii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2588-maximum-number-of-points-from-grid-queries) |
