@@ -787,6 +787,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -906,6 +907,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2215-finding-3-digit-even-numbers) |
 | [2442-number-of-arithmetic-triplets](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2442-number-of-arithmetic-triplets) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2998-count-symmetric-integers](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3201-distribute-candies-among-children-ii) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -975,6 +977,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0292-nim-game) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Game Theory
 |  |
 | ------- |
