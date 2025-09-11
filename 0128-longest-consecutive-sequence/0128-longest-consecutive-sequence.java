@@ -1,12 +1,12 @@
 class Solution {
     public int longestConsecutive(int[] nums) {
         Set<Integer> set = new HashSet<>();
-        for (int num : nums) set.add(num); // O(n)
+        for (int num : nums) set.add(num); 
 
         int longest = 0;
 
-        for (int num : set) { // loop directly over set
-            if (!set.contains(num - 1)) { // only start of sequence
+        for (int num : set) { 
+            if (!set.contains(num - 1)) { 
                 int current = num;
                 int streak = 1;
 
