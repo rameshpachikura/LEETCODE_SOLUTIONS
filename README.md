@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0782-jewels-and-stones) |
 | [0868-push-dominoes](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0868-push-dominoes) |
+| [1006-vowel-spellchecker](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1006-vowel-spellchecker) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1256-rank-transform-of-an-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1256-rank-transform-of-an-array) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0945-snakes-and-ladders) |
+| [1006-vowel-spellchecker](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1006-vowel-spellchecker) |
 | [1046-max-consecutive-ones-iii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1137-height-checker](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1137-height-checker) |
