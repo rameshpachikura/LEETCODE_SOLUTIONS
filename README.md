@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2320-find-all-k-distant-indices-in-an-array) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2491-smallest-even-multiple](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2491-smallest-even-multiple) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -722,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2491-smallest-even-multiple](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2491-smallest-even-multiple) |
 | [2610-closest-prime-numbers-in-range](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3001-apply-operations-to-maximize-score) |
@@ -902,6 +905,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0445-add-two-numbers-ii) |
 | [2128-reverse-prefix-of-word](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2128-reverse-prefix-of-word) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2470-removing-stars-from-a-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2470-removing-stars-from-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3001-apply-operations-to-maximize-score) |
