@@ -1,25 +1,29 @@
 class Solution {
     public int compareVersion(String version1, String version2) {
-    String[] a = version1.split("\\.");
+      String[] a = version1.split("\\.");
     String[] b = version2.split("\\.");
-    int n = Math.max(a.length, b.length);
 
-    for (int i = 0; i < n; i++) {
-        int v1=0;
-        int v2=0;
-        if(i<a.length){
-            v1=Integer.parseInt(a[i]);
-        }
-        if(i<b.length){
-            v2=Integer.parseInt(b[i]);
-        }
-        if(v1<v2){
-            return -1;
-        }
-        else if(v1>v2){
-            return 1;
-        }
+List<String> listA = new ArrayList<>(Arrays.asList(a));
+List<String> listB = new ArrayList<>(Arrays.asList(b));
+
+while (listA.size() < listB.size()) {
+    listA.add("0");
+}
+
+while (listB.size() < listA.size()) {
+    listB.add("0");
+}
+
+for (int k = 0; k < listA.size(); k++) {
+    int numA = Integer.parseInt(listA.get(k));
+    int numB = Integer.parseInt(listB.get(k));
+    if (numA > numB) {
+       return 1;
+    } else if (numA < numB) {
+       return -1;
     }
-    return 0;
+}
+return 0;
+
     }
 }
