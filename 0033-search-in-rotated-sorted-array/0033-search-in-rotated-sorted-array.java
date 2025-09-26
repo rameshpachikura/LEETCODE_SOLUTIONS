@@ -1,39 +1,28 @@
 class Solution {
     public int search(int[] nums, int target) {
-        int n = nums.length;
-        int low = 0, high = n - 1;
-
-        // Step 1: Find the pivot (smallest element index)
-        while (low < high) {
-            int mid = low + (high - low) / 2;
-            if (nums[mid] > nums[high]) {
-                low = mid + 1;
-            } else {
-                high = mid;
-            }
+       int ans=helper(nums,target,0,nums.length-1);
+       return ans;
+    }
+    int helper(int[] nums,int key,int start,int end){
+       if(start>end){
+            return -1;
         }
-        int pivot = low;  // Pivot index found
-
-        // Step 2: Perform binary search on the correct half
-        low = 0;
-        high = n - 1;
-        
-        if (target >= nums[pivot] && target <= nums[high]) {
-            low = pivot; 
-        } else {
-            high = pivot - 1;  
-        }
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-            if (nums[mid] == target) {
-                return mid;
-            } else if (nums[mid] < target) {
-                low = mid + 1;
-            } else {
-                high = mid - 1;
-            }
+      int mid=start+(end-start)/2;
+      if(nums[mid]==key){
+        return mid;
+      }  
+      if(nums[start]<=nums[mid]){
+         if(key>=nums[start] && key<=nums[mid]){
+            return helper(nums,key,start,mid-1);
+         }
+         else{
+            return  helper(nums,key,mid+1,end);
         }
 
-        return -1; 
+      }
+      if(key>=nums[mid] && key<=nums[end]){
+         return  helper(nums,key,mid+1,end);
+      }
+       return helper(nums,key,start,mid-1);
     }
 }
