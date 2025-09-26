@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0368-largest-divisible-subset) |
 | [0445-add-two-numbers-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0445-add-two-numbers-ii) |
+| [0492-construct-the-rectangle](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0492-construct-the-rectangle) |
 | [0523-continuous-subarray-sum](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0523-continuous-subarray-sum) |
 | [0598-range-addition-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0598-range-addition-ii) |
 | [0797-rabbits-in-forest](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0797-rabbits-in-forest) |
