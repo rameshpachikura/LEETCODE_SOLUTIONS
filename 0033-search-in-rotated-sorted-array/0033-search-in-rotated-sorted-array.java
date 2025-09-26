@@ -4,6 +4,7 @@ class Solution {
        return ans;
     }
     int helper(int[] nums,int key,int start,int end){
+        System.out.println(start+" "+end+" "+(start+(end-start)/2));
        if(start>end){
             return -1;
         }
