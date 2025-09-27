@@ -323,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1791-richest-customer-wealth) |
 | [1813-maximum-erasure-value](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1813-maximum-erasure-value) |
 | [1833-find-the-highest-altitude](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1833-find-the-highest-altitude) |
+| [1843-number-of-rectangles-that-can-form-the-largest-square](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1843-number-of-rectangles-that-can-form-the-largest-square) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1917-maximum-average-pass-ratio](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1917-maximum-average-pass-ratio) |
