@@ -303,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -591,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1791-richest-customer-wealth](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1791-richest-customer-wealth) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [1137-height-checker](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1256-rank-transform-of-an-array) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -793,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -913,6 +917,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1917-maximum-average-pass-ratio) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
