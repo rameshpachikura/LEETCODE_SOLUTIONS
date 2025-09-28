@@ -287,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0945-snakes-and-ladders) |
 | [1006-vowel-spellchecker](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
 | [1046-max-consecutive-ones-iii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1137-height-checker](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1137-height-checker) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-soup-servings](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0826-soup-servings) |
 | [0830-largest-triangle-area](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -681,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
 | [1137-height-checker](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1137-height-checker) |
 | [1256-rank-transform-of-an-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1256-rank-transform-of-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -865,6 +868,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0611-valid-triangle-number) |
 | [0797-rabbits-in-forest](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0797-rabbits-in-forest) |
+| [1018-largest-perimeter-triangle](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1407-group-the-people-given-the-group-size-they-belong-to](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1407-group-the-people-given-the-group-size-they-belong-to) |
