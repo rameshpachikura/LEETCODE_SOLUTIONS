@@ -437,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -823,6 +824,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0338-counting-bits) |
