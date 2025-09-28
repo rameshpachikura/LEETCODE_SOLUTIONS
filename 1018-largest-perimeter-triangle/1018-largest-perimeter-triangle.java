@@ -7,7 +7,7 @@ class Solution {
                 int a=nums[i];
                 int b=nums[i+1];
                 int c=nums[i+2];
-                if(((a+b)>c)  &&  ((b+c)>a) && ((c+a)>b)){
+                if(((a+b)>c)){
                     ans=Math.max(ans,a+b+c);
                 }
        }
