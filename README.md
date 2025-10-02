@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3321-type-of-triangle) |
+| [3336-water-bottles-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3336-water-bottles-ii) |
 | [3371-harshad-number](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3371-harshad-number) |
 | [3567-convert-date-to-binary](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3567-convert-date-to-binary) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -754,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2551-apply-operations-to-an-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2551-apply-operations-to-an-array) |
 | [2857-total-distance-traveled](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2857-total-distance-traveled) |
 | [2886-faulty-keyboard](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2886-faulty-keyboard) |
+| [3336-water-bottles-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3790-fruits-into-baskets-ii) |
 ## Number Theory
