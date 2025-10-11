@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3412-permutation-difference-between-two-strings](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3412-permutation-difference-between-two-strings) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3430-count-days-without-meetings](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3430-count-days-without-meetings) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Prefix Sum
@@ -638,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -682,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Sorting
@@ -737,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3430-count-days-without-meetings](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3430-count-days-without-meetings) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3647-zero-array-transformation-iii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3647-zero-array-transformation-iii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
@@ -836,6 +842,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3643-zero-array-transformation-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3643-zero-array-transformation-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3790-fruits-into-baskets-ii) |
 ## Bit Manipulation
