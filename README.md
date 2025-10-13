@@ -293,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0830-largest-triangle-area) |
+| [0861-flipping-an-image](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0861-flipping-an-image) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -620,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0407-trapping-rain-water-ii) |
 | [0566-reshape-the-matrix](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0566-reshape-the-matrix) |
+| [0861-flipping-an-image](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0861-flipping-an-image) |
 | [0945-snakes-and-ladders](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0945-snakes-and-ladders) |
 | [1396-count-servers-that-communicate](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0443-string-compression) |
 | [0611-valid-triangle-number](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0611-valid-triangle-number) |
+| [0861-flipping-an-image](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0861-flipping-an-image) |
 | [0868-push-dominoes](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0908-middle-of-the-linked-list) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -766,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0566-reshape-the-matrix) |
+| [0861-flipping-an-image](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0861-flipping-an-image) |
 | [1505-create-target-array-in-the-given-order](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -868,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0342-power-of-four) |
+| [0861-flipping-an-image](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0861-flipping-an-image) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
