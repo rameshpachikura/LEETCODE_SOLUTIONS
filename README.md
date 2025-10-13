@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1396-count-servers-that-communicate](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1396-count-servers-that-communicate) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1018-largest-perimeter-triangle) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -770,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0415-add-strings) |
 | [0566-reshape-the-matrix](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0566-reshape-the-matrix) |
 | [0861-flipping-an-image](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0861-flipping-an-image) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1505-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1951-find-the-winner-of-the-circular-game) |
