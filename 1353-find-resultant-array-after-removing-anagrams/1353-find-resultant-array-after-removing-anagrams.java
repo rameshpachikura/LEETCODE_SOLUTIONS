@@ -20,7 +20,7 @@ class Solution {
 
             if (s1.equals(s2)) {
                 a.remove(i);
-                i--;  // adjust after removal
+                i--;  
             }
         }
 
