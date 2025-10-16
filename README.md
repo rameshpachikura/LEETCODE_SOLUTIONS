@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2689-rearranging-fruits](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2689-rearranging-fruits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2689-rearranging-fruits) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-closest-prime-numbers-in-range](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2610-closest-prime-numbers-in-range) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2649-count-total-number-of-colored-cells](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2649-count-total-number-of-colored-cells) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2812-find-the-maximum-achievable-number](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2812-find-the-maximum-achievable-number) |
 | [2857-total-distance-traveled](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2857-total-distance-traveled) |
@@ -945,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-longest-subsequence-with-limited-sum](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2689-rearranging-fruits) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2704-maximum-difference-by-remapping-a-digit) |
