@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2128-reverse-prefix-of-word](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2128-reverse-prefix-of-word) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2134-maximize-the-confusion-of-an-exam) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2122-count-special-quadruplets](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2122-count-special-quadruplets) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
@@ -788,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2058-concatenation-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2271-rearrange-array-elements-by-sign) |
