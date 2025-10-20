@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0290-word-pattern) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0228-summary-ranges) |
 | [0349-intersection-of-two-arrays](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
@@ -727,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0368-largest-divisible-subset) |
