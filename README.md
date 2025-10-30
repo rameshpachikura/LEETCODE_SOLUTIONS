@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4008-restore-finishing-order](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/4008-restore-finishing-order) |
 ## Tree
 |  |
 | ------- |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3790-fruits-into-baskets-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [4008-restore-finishing-order](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/4008-restore-finishing-order) |
 ## Divide and Conquer
 |  |
 | ------- |
