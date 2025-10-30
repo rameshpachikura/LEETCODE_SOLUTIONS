@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1635-number-of-good-pairs](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1635-number-of-good-pairs) |
 | [1651-shuffle-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1651-shuffle-string) |
 | [1656-count-good-triplets](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1656-count-good-triplets) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -967,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1612-avoid-flood-in-the-city](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1917-maximum-average-pass-ratio](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1917-maximum-average-pass-ratio) |
 | [2032-largest-odd-number-in-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2032-largest-odd-number-in-string) |
@@ -1030,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/0445-add-two-numbers-ii) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2128-reverse-prefix-of-word](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2128-reverse-prefix-of-word) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2470-removing-stars-from-a-string](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/2470-removing-stars-from-a-string) |
@@ -1038,6 +1042,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/rameshpachikura/LEETCODE_SOLUTIONS/tree/master/3001-apply-operations-to-maximize-score) |
 ## Combinatorics
 |  |
